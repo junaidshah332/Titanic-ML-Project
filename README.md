@@ -10,7 +10,7 @@ Predicted survival of Titanic passengers using Machine Learning.
 - Random Forest
 
 ## Accuracy
-79%
+80%
 
 ## Libraries
 - Python
